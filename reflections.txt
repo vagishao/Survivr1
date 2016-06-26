@@ -1,0 +1,11 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+-It uses define_method to add methods to the String class.
+
+How long did you spend working on this project?
+-It took me 3 days to complete the project.
+
+What was the most rewarding challenge you conquered?
+-To understand the concept of metaprogramming. Never encountered this before. Ruby rocks!!
+
+Where do you still have room to grow?
+-I need to practice
